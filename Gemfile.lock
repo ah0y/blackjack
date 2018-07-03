@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.13.3)
+    gosu (0.13.3-x86-mingw32)
+    ocra (1.3.10)
+    require_all (2.0.0)
+
+PLATFORMS
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  gosu
+  ocra
+  require_all
+
+BUNDLED WITH
+   1.16.2
