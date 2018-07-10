@@ -26,4 +26,6 @@ My first GUI ever. Built using Gosu
 
 ## To build a Windows executable
 1. `gem install ocra`
-2. run `ocra game.rb  media --gemfile Gemfile --windows
+2. run `ocra game.rb media/**/*.png  --gemfile Gemfile --windows --chdir-first`
+
+
