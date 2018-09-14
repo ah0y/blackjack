@@ -1,6 +1,6 @@
 # blackjack
 
-My first GUI ever. Built using Gosu
+My first GUI ever. Built using Gosu. Card art by Cheyenne 
 
 ## Pre-requirements
 * ruby
